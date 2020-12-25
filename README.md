@@ -1,5 +1,6 @@
 Quake Report App
 ===================================
+(Exercise Project from Udacity's Android Development Course)
 
 This app displays a list of recent earthquakes in the world
 from the U.S. Geological Survey (USGS) organization.
